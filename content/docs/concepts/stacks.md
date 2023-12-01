@@ -76,7 +76,7 @@ when using the latest stack. This can occur when a CVE patch is not yet
 available upstream or if Canonical determines that the vulnerability is not
 severe enough to fix.
 
-Stacks are backwards compatible. A stack can safely be upgraded to the most recent version within the major version line. If for some reason backwards compatibility is broken, it happens when a new major version is released.
+Stacks are backward compatible. A stack can safely be upgraded to the most recent version within the major version line. If for some reason backwards compatibility is broken, it happens when a new major version is released.
 
 ## What security and hardening features do Paketo stacks offer?
 
